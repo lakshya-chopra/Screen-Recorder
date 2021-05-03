@@ -1,5 +1,5 @@
 # Screen-Recorder
-This is a simple screen recorder(written in python) in just 32 lines of code.
+This is a simple screen recorder written in python
 
 **Packages used : pyautogui,win32api,opencv,numpy and datetime.**
 
